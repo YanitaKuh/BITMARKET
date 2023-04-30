@@ -70,6 +70,7 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     width: 80%;
+    justify-content: space-between;
     margin-left: 10%;
 }
 
